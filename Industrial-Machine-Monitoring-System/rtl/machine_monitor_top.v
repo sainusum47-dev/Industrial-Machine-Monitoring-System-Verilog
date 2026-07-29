@@ -1,3 +1,10 @@
+// ============================================================================
+// Module Name: machine_monitor_top
+// Project: Industrial Machine Monitoring System
+// Target Device: AMD Artix-7 (xc7a35tcpg236-1)
+// Description: Top-level module integrating temperature, vibration, and gas 
+//              threshold monitoring with immediate safety alarm logic.
+// ============================================================================
 module machine_monitor_top (
 
     // Inputs
