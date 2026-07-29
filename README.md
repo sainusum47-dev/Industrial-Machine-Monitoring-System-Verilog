@@ -50,7 +50,7 @@ An FPGA-based industrial safety monitoring system designed in Verilog HDL using 
 ![Utilization Report 1](Industrial-Machine-Monitoring-System/docs/utilization_report.png/Screenshot%202026-07-30%20005755.png)
 *Resource Utilization Summary (Part 1)*
 
-![Utilization Report 2](Industrial-Machine-Monitoring-System/docs/utilization_report.png/Screenshot%202026-07-30%20005755%20(1).png)
+![Utilization Report 2](Industrial-Machine-Monitoring-System/docs/utilization_report.png/Screenshot%202026-07-30%20005755.png)
 *Resource Utilization Summary (Part 2)*
 
 ![Utilization Report 3](Industrial-Machine-Monitoring-System/docs/utilization_report.png/Screenshot%202026-07-30%20010047.png)
