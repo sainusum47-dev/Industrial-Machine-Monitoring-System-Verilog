@@ -35,33 +35,33 @@ An FPGA-based industrial safety monitoring system designed in Verilog HDL using 
 | `system_shutdown` | Output | Master Machine Shutdown Signal |
 ## Hardware Verification & Implementation
 
-### 1. Behavioral Simulation & Testbench Verification (2 Images)
+### 1. Behavioral Simulation & Testbench Verification
 
-![Behavioral Simulation 1](docs/behavioral_simulation.png/23.png)
+![Behavioral Simulation 1](Industrial-Machine-Monitoring-System/docs/behavioral_simulation.png/23.png)
 *Behavioral Simulation Waveform*
 
-![Behavioral Simulation 2](docs/behavioral_simulation.png/Screenshot%202026-07-30%20010954.png)
+![Behavioral Simulation 2](Industrial-Machine-Monitoring-System/docs/behavioral_simulation.png/Screenshot%202026-07-30%20010954.png)
 *Testbench Verification Log & Console Output*
 
 ---
 
-### 2. Resource Utilization & Synthesis Reports (4 Images)
+### 2. Resource Utilization & Synthesis Reports
 
-![Utilization Report 1](docs/utilization_report.png/Screenshot%202026-07-30%20005755.png)
+![Utilization Report 1](Industrial-Machine-Monitoring-System/docs/utilization_report.png/Screenshot%202026-07-30%20005755.png)
 *Resource Utilization Summary (Part 1)*
 
-![Utilization Report 2](docs/utilization_report.png/Screenshot%202026-07-30%20005755%20(1).png)
-*Resource Utilization Summary (Part 2 / Duplicate View)*
+![Utilization Report 2](Industrial-Machine-Monitoring-System/docs/utilization_report.png/Screenshot%202026-07-30%20005755%20(1).png)
+*Resource Utilization Summary (Part 2)*
 
-![Utilization Report 3](docs/utilization_report.png/Screenshot%202026-07-30%20010047.png)
+![Utilization Report 3](Industrial-Machine-Monitoring-System/docs/utilization_report.png/Screenshot%202026-07-30%20010047.png)
 *Logic Cell & LUT Usage Breakdown*
 
-![Utilization Report 4](docs/utilization_report.png/Screenshot%202026-07-30%20010121.png)
+![Utilization Report 4](Industrial-Machine-Monitoring-System/docs/utilization_report.png/Screenshot%202026-07-30%20010121.png)
 *I/O Pad & Power Analysis*
 
 ---
 
-### 3. FPGA Physical Device Layout (1 Image)
+### 3. FPGA Physical Device Layout
 
-![FPGA Device Layout](docs/fpga_device_layout.png/12.png)
+![FPGA Device Layout](Industrial-Machine-Monitoring-System/docs/fpga_device_layout.png/12.png)
 *Physical Placement & Die Layout on Xilinx Artix-7*
