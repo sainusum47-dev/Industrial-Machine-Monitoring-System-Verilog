@@ -20,3 +20,16 @@ An FPGA-based industrial safety monitoring system designed in Verilog HDL using 
 - **Slice Registers:** 3 / 8,150 (< 1%)
 - **I/O Pins:** 53 / 106 (50%)
 - **Timing:** Passed with 0 failing endpoints
+## Input / Output Signal Mapping
+
+| Signal Name | Type | Description |
+| :--- | :--- | :--- |
+| `clk` | Input | System Clock Signal |
+| `rst` | Input | Active-High System Reset |
+| `temp_in[7:0]` | Input | 8-bit Temperature Sensor Input |
+| `vib_in[7:0]` | Input | 8-bit Vibration Sensor Input |
+| `gas_in[7:0]` | Input | 8-bit Gas Level Sensor Input |
+| `temp_alarm` | Output | Temperature Safety Alarm Flag |
+| `vibration_alarm` | Output | Vibration Safety Alarm Flag |
+| `gas_alarm` | Output | Gas Safety Alarm Flag |
+| `system_shutdown` | Output | Master Machine Shutdown Signal |
